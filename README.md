@@ -15,7 +15,7 @@ Para  llevar a cabo de manera correcta y que no pierdas tu valioso tiempo en int
     <image src='./images/VSC.png' alt='VSC' height=400 >
 </div>
 
-2. [Node.js](https://nodejs.org/en), ya que para usar React vamos a necesitar JavaScript.
+2. [Node.js](https://nodejs1.org/en), ya que para usar React vamos a necesitar JavaScript.
 <div style="display: flex; justify-content: center;">
     <image src='./images/Nodejs.png' alt='Nodejs' height=400 >
 </div>
